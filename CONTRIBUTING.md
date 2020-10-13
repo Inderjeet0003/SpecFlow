@@ -2,7 +2,7 @@
 
 This contributing guide is based on the contributing for ElixirScript (which was based on the guide for contributing to Elixir), with changes suitable for this project.
 
-Contributing can have many faces. It can be code, but also answering questions and issues, writing documentation or trying out preview versions are contributions.
+Contributing can have many faces. It can be code, but also answering questions and issues, writing documentation or trying out preview versions , are contributions.
 
 ## Using the issue tracker
 
@@ -87,7 +87,7 @@ in order to craft an excellent pull request:
 
   ```sh
   # Clone your fork of the repo into the current directory
-  git clone --recurse-submodules https://github.com/<your-username>/SpecFlow
+  git clone recurse-submodules https://github.com/<your-username>/SpecFlow
   # Navigate to the newly cloned directory
   cd SpecFlow
   # Assign the original repo to a remote called "upstream"
